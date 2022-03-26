@@ -1,0 +1,25 @@
+body {
+  background: #f8e8a6;
+  display: block;
+  margin: 8px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.link {
+  color: green;
+  margin: 0 10px;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+.croissant-img {
+  display: block;
+  border-radius: 10px;
+  margin: 30px auto;
+}
